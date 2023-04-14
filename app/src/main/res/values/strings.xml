@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MidMorning Simple List</string>
+    <string-array name="contacts">
+        <item>Sara</item>
+        <item>Daniel</item>
+        <item>Procorus</item>
+        <item>kamua</item>
+        <item>Thalma</item>
+        <item>Alphonce</item>
+        <item>Faith</item>
+        <item>Mulumba</item>
+        <item>Singy</item>
+        <item>Shem</item>
+        <item>Fidel</item>
+        <item>Tito</item>
+        <item>Levis</item>
+        <item>Victor</item>
+        <item>James</item>
+        <item>Sylvia</item>
+        <item>Hans</item>
+        <item>James</item>
+        <item>Rheinard</item>
+        <item>Lee</item>
+    </string-array>
+</resources>
